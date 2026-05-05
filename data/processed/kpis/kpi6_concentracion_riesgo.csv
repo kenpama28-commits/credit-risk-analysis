@@ -1,0 +1,4 @@
+segmento_riesgo,total_clientes,pct_cartera,clientes_en_mora,tasa_mora_pct,atrasos_promedio,lineas_credito_prom
+Alto,11293,7.53,4412,39.07,10.26,7.1
+Medio,34581,23.05,3656,10.57,0.67,7.9
+Bajo,104125,69.42,1958,1.88,0.0,8.8

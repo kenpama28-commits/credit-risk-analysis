@@ -1,0 +1,7 @@
+segmento_riesgo,mora_grave,ratio_deuda_prom,uso_credito_rotativo_pct,ingreso_mensual_prom,ingreso_por_dependiente_prom,total_clientes,condicion
+Alto,1,246.285,82.3,5086.0,3453.0,4412,Con mora
+Alto,0,263.308,65.8,5550.0,3859.0,6881,Sin mora
+Bajo,1,289.643,30.9,6118.0,4162.0,1958,Con mora
+Bajo,0,330.053,16.1,6315.0,4625.0,102167,Sin mora
+Medio,1,253.78,76.6,5473.0,3707.0,3656,Con mora
+Medio,0,302.944,66.1,5935.0,4116.0,30925,Sin mora

@@ -1,0 +1,4 @@
+segmento_riesgo,total_clientes,clientes_en_mora,tasa_mora_pct,ingreso_promedio,ratio_deuda_promedio,benchmark_mora,alerta
+Alto,11293,4412,39.07,5369.0,256.657,5.0,🔴 Crítico
+Medio,34581,3656,10.57,5886.0,297.746,5.0,🟡 Alerta
+Bajo,104125,1958,1.88,6311.0,329.293,5.0,🟢 Normal

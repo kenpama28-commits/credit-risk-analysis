@@ -1,0 +1,4 @@
+segmento_riesgo,total_clientes,con_atraso_grave,pct_atraso_grave,promedio_atrasos_90d,max_atrasos_90d
+Alto,11293,8338,73.83,3.53,98
+Medio,34581,0,0.0,0.0,0
+Bajo,104125,0,0.0,0.0,0
