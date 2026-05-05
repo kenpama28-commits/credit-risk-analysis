@@ -163,11 +163,11 @@ pip install -r requirements.txt
 
 
 
-\## 📬 Contacto
+\## 📬 autor
 
 
 
-\*\*Kevin Palacio Martinez\*\*  \[kenpama28@gmail.com]
+\*\*Kevin Palacio Martinez\*\*  
 
 
 
